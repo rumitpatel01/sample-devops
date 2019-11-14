@@ -1,5 +1,5 @@
-/sample_devops/bin
-/sample_devops/obj
-/sample_devops/packages
-/sample_devops/.vs
-/sample_devops/*.user
+**/bin
+**/obj
+**/packages
+**/.vs
+**/*.user
